@@ -1,0 +1,179 @@
+{
+    "New Release": {
+        "message": "新作リリース"
+    },
+
+    "Solution": {
+        "message": "サービス"
+    },
+    
+    "IT System": {
+        "message": "ITシステム"
+    },
+    "Online Marketing": {
+        "message": "オンラインマーケティング"
+    },
+    "Company": {
+        "message": "企業情報"
+    },
+    
+    "Contact": {
+        "message": "お問合せ"
+    },
+
+    "ITSystem": {
+      "message": "ITシステム"
+      },
+
+    "ETaxInvoice": {
+        "message": "e-Tax請求書とe-領収書"
+    },
+
+    "WebsiteMarketing": {
+        "message": "ウェブサイトとオンラインマーケティング"
+    },
+
+    "Consult": {
+        "message": "相談"
+    },
+
+    "MyLogStar": {
+        "message": "マイログスター"
+    },
+
+    "Maintainance": {
+        "message": "保守"
+    },
+
+    "SystemDevelopment": {
+        "message": "システム開発"
+    },
+
+    "ITSupport&HelpDesk": {
+        "message": "ITサポート＆ヘルプデスク"
+    },
+
+    "Productmanagementsystem": {
+        "message": "製品管理システム"
+    },
+
+    "Website&Onlinemarketing": {
+        "message": "ェブサイト＆オンラインマーケティング"
+    },
+
+    "WEBSITE": {
+        "message": "ウェブサイト制作"
+    },
+
+    "ONLINEMARKETING": {
+        "message": "オンラインマーケティング"
+    },
+
+    "COMPANYPROFILE": {
+        "message": "会社概要"
+    },
+
+    "AboutUs": {
+        "message": "私たちについて"
+    },
+
+    "Companyname": {
+        "message": "会社名"
+    },
+
+    "Companyaddress": {
+        "message": "本社住所"
+    },
+
+    "Tel": {
+        "message": "電話番号"
+    },
+
+    "E-mail": {
+        "message": "電子メル"
+    },
+
+    "Establishment": {
+        "message": "設立"
+    },
+
+    "Capital": {
+        "message": "資本金"
+    },
+
+    "Representative": {
+        "message": "代表者"
+    },
+
+    "OurService": {
+        "message": "当社のサービス"
+    },
+
+    "OurService1": {
+        "message": "①ITプランニング"
+    },
+
+    "OurService2": {
+        "message": "②社内ネットワークの設計・構築"
+    },
+
+    "OurService3": {
+        "message": "③システム開発・カスタマイズ"
+    },
+
+    "OurService4": {
+        "message": "④ERPシステムのプランニング"
+    },
+
+    "OurService5": {
+        "message": "⑤サーバー・パソコン等通信機器の販売"
+    },
+
+    "Location": {
+        "message": "位置"
+    },
+
+    "Pleaseinputcompanyname": {
+        "message": "会社名を入力してください"
+    },
+
+    "name": {
+        "message": "あなたの名前"
+    },
+
+    "Pleaseinputname": {
+        "message": "担当者名を入力してください"
+    },
+
+    "Pleaseinputemail": {
+        "message": "メールアドレスを入力してください"
+    },
+
+    "Phonenumber": {
+        "message": "電話番号"
+    },
+
+    "Pleaseinputphonenumber": {
+        "message": "電話番号を入力してください"
+    },
+
+    "Contentinquiry": {
+        "message": "内容のお問い合わせ"
+    },
+
+    "Confirm": {
+        "message": "確認する"
+    },
+
+    "Reset": {
+        "message": "リセット"
+    },
+
+    "ContactUs1": {
+        "message": "ご質問やお問い合わせがございましたら、お気軽にお問い合わせください。"
+    },
+
+    "ContactUs2": {
+        "message": "以下のフォームにご記入の上、お問い合わせください。お急ぎの場合は下記電話番号までお問い合わせください。"
+    }
+}

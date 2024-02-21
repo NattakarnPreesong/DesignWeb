@@ -1,0 +1,179 @@
+{
+    "New Release": {
+        "message": "New Release"
+    },
+
+    "Solution": {
+        "message": "Solution"
+    },
+    "IT System": {
+          "message": "IT System"
+    },
+    "Online Marketing": {
+        "message": "Online Marketing"
+    },
+
+    "Company": {
+        "message": "Company"
+    },
+    
+    "Contact": {
+        "message": "Contact"
+    },
+    
+    "ITSystem": {
+        "message": "IT System"
+    },
+
+    "ETaxInvoice": {
+        "message": "e-Tax Invoice & e-Receipt"
+    },
+
+    "WebsiteMarketing": {
+        "message": "Website & Online marketing"
+    },
+
+    "Consult": {
+        "message": "Consult"
+    },
+
+    "MyLogStar": {
+        "message": "MyLogStar"
+    },
+        
+    "Maintainance": {
+        "message": "Maintainance"
+    },
+        
+    "SystemDevelopment": {
+        "message": "System Development"
+    },
+        
+    "ITSupport&HelpDesk": {
+        "message": "ITSupport & Help Desk"
+    },
+        
+    "Productmanagementsystem": {
+        "message": "Product management system"
+    },
+        
+    "Website&Onlinemarketing": {
+        "message": "Website & Online marketing"
+    },
+
+    "WEBSITE": {
+        "message": "WEBSITE"
+    },
+
+    "ONLINEMARKETING": {
+        "message": "ONLINE MARKETING"
+    },
+
+    "COMPANYPROFILE": {
+        "message": "COMPANY PROFILE"
+    },
+
+    "AboutUs": {
+        "message": "About Us"
+    },
+
+    "Companyname": {
+        "message": "Company name"
+    },
+
+    "Companyaddress": {
+        "message": "Company address"
+    },
+
+    "Tel": {
+        "message": "Tel."
+    },
+
+    "E-mail": {
+        "message": "E-mail."
+    },
+
+    "Establishment": {
+        "message": "Establishment"
+    },
+
+    "Capital": {
+        "message": "Capital"
+    },
+
+    "Representative": {
+        "message": "Representative"
+    },
+
+    "OurService": {
+        "message": "Our Service"
+    },
+
+    "OurService1": {
+        "message": "①IT Planing"
+    },
+
+    "OurService2": {
+        "message": "②Design and construction of in-house network"
+    },
+
+    "OurService3": {
+        "message": "③System development / customization"
+    },
+
+    "OurService4": {
+        "message": "④ERP system planning"
+    },
+
+    "OurService5": {
+        "message": "⑤Sales of communication equipment such as servers and personal computers"
+    },
+
+    "Location": {
+        "message": "Location"
+    },
+
+    "Pleaseinputcompanyname": {
+        "message": "Please input company name"
+    },
+
+    "name": {
+        "message": "Name"
+    },
+
+    "Pleaseinputname": {
+        "message": "Please input name"
+    },
+
+    "Pleaseinputemail": {
+        "message": "Please inpute mail"
+    },
+
+    "Phonenumber": {
+        "message": "Phone number"
+    },
+
+    "Pleaseinputphonenumber": {
+        "message": "Please input phone"
+    },
+
+    "Contentinquiry": {
+        "message": "Content"
+    },
+
+    "Confirm": {
+        "message": "Confirm"
+    },
+
+    "Reset": {
+        "message": "Reset"
+    },
+
+    "ContactUs1": {
+        "message": "If you have any questions or inquiries, please feel free to contact us."
+    },
+
+    "ContactUs2": {
+        "message": "Please fill out the form below and contact us. If you are in a hurry, please contact us at the phone number below."
+    }
+}
