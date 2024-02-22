@@ -21,7 +21,7 @@ return (
           <Card className="shadow-lg border rounded-lg">
             <CardHeader className="relative h-10 bg-gradient-to-r from-cyan-500 to-blue-500" floated={false}>
               <Typography variant="h5" color="white" className="mb-3 mt-2 font-bold flex items-center">
-                <ChatBubbleLeftRightIcon className="ml-4 w-6 h-6 mr-2 text-white-gray-500" />Contact Form
+                <ChatBubbleLeftRightIcon className="ml-4 w-6 h-6 mr-2 text-white-gray-500" />{t("ContactForm.message")}
               </Typography>
             </CardHeader>
             <CardBody className="p-2 border-t border-gray-200">
@@ -77,7 +77,7 @@ return (
           <Card className="shadow-lg border shadow-gray-500/10 rounded-lg">
             <CardHeader className="relative h-10 bg-gradient-to-r from-green-500 to-lime-500" floated={false}>
               <Typography variant="h5" color="white" className="mb-3 mt-2 font-bold flex items-center">
-                <MapPinIcon className="ml-4 w-6 h-6 mr-2 text-white-gray-500" />Contact Us
+                <MapPinIcon className="ml-4 w-6 h-6 mr-2 text-white-gray-500" />{t("Inquiry.message")}
               </Typography>
             </CardHeader>
             <CardBody className="p-2">
