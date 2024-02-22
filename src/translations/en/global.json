@@ -182,5 +182,9 @@
 
     "ContactForm": {
         "message": "Contact Form"
+    },
+    
+    "Inquiry": {
+        "message": "Contact Us"
     }
 }
