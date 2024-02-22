@@ -1,0 +1,181 @@
+{
+    "title": {
+        "message": "เราจะช่วยคุณในเรื่อง DX (การเปลี่ยนแปลงทางดิจิทัล)"
+    },
+    "New Release": {
+        "message": "รุ่นใหม่"
+    },
+    "Solution": {
+        "message": "โซลูชัน"
+    },
+    "IT System": {
+          "message": "ระบบไอที"
+    },
+    "Online Marketing": {
+        "message": "การตลาดออนไลน์"
+    },
+    
+    "Company": {
+        "message": "บริษัท"
+    },
+    
+    "Contact": {
+        "message": "ติดต่อ"
+    },
+    
+    "ITSystem": {
+        "message": "ระบบไอที"
+    },
+    
+    "ETaxInvoice": {
+        "message": "ใบกำกับภาษีอิเล็กทรอนิกส์และใบเสร็จอิเล็กทรอนิกส์"
+    },
+    
+    "WebsiteMarketing": {
+        "message": "เว็บไซต์และการตลาดออนไลน์"
+    },
+    
+    "Consult": {
+        "message": "ปรึกษา"
+    },
+    
+    "MyLogStar": {
+        "message": "MyLogStar"
+    },
+        
+    "Maintainance": {
+        "message": "การบำรุงรักษา"
+    },
+        
+    "SystemDevelopment": {
+        "message": "การพัฒนาระบบ"
+    },
+        
+    "ITSupport&HelpDesk": {
+        "message": "การสนับสนุนทางไอทีและเฮลปเดสก์"
+    },
+        
+    "Productmanagementsystem": {
+        "message": "ระบบจัดการสินค้า"
+    },
+        
+    "Website&Onlinemarketing": {
+        "message": "เว็บไซต์และการตลาดออนไลน์"
+    },
+    
+    "WEBSITE": {
+        "message": "เว็บไซต์"
+    },
+    
+    "ONLINEMARKETING": {
+        "message": "การตลาดออนไลน์"
+    },
+    
+    "COMPANYPROFILE": {
+        "message": "ประวัติบริษัท"
+    },
+    
+    "AboutUs": {
+        "message": "เกี่ยวกับเรา"
+    },
+    
+    "Companyname": {
+        "message": "ชื่อบริษัท"
+    },
+    
+    "Companyaddress": {
+        "message": "ที่อยู่บริษัท"
+    },
+    
+    "Tel": {
+        "message": "โทร."
+    },
+    
+    "E-mail": {
+        "message": "อีเมล"
+    },
+    
+    "Establishment": {
+        "message": "วันก่อตั้ง"
+    },
+    
+    "Capital": {
+        "message": "ทุนจดทะเบียน"
+    },
+    
+    "Representative": {
+        "message": "ผู้แทน"
+    },
+    
+    "OurService": {
+        "message": "บริการของเรา"
+    },
+    
+    "OurService1": {
+        "message": "①วางแผนทางไอที"
+    },
+    
+    "OurService2": {
+        "message": "②ออกแบบและก่อสร้างเครือข่ายภายใน"
+    },
+    
+    "OurService3": {
+        "message": "③พัฒนาระบบ / ปรับแต่ง"
+    },
+    
+    "OurService4": {
+        "message": "④วางแผนระบบ ERP"
+    },
+    
+    "OurService5": {
+        "message": "⑤ขายอุปกรณ์สื่อสาร เช่น เซิร์ฟเวอร์ และ คอมพิวเตอร์ส่วนตัว"
+    },
+    
+    "Location": {
+        "message": "สถานที่"
+    },
+    
+    "Pleaseinputcompanyname": {
+        "message": "กรุณากรอกชื่อบริษัท"
+    },
+    
+    "name": {
+        "message": "ชื่อ"
+    },
+    
+    "Pleaseinputname": {
+        "message": "กรุณากรอกชื่อ"
+    },
+    
+    "Pleaseinputemail": {
+        "message": "กรุณากรอกอีเมล"
+    },
+    
+    "Phonenumber": {
+        "message": "หมายเลขโทรศัพท์"
+    },
+    
+    "Pleaseinputphonenumber": {
+        "message": "กรุณากรอกหมายเลขโทรศัพท์"
+    },
+    
+    "Contentinquiry": {
+        "message": "เนื้อหา"
+    },
+    
+    "Confirm": {
+        "message": "ยืนยัน"
+    },
+    
+    "Reset": {
+        "message": "รีเซ็ต"
+    },
+    
+    "ContactUs1": {
+        "message": "หากคุณมีคำถามหรือข้อสงสัย โปรดติดต่อเรา"
+    },
+    
+    "ContactUs2": {
+        "message": "กรุณากรอกแบบฟอร์มด้านล่างและติดต่อเรา หากคุณต้องการความเร่งด่วน กรุณาติดต่อเราที่หมายเลขโทรศัพท์ด้านล่าง"
+    }
+}
