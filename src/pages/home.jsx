@@ -21,7 +21,7 @@ return (
       <div className="flex flex-wrap items-center">
         <div className="ml-auto mr-auto w-full px-4 text-center lg:w-9/12">
           <Typography variant="h3" color="white" className="mt-20 mb-6 font-black">
-            Japan System では貴社の DX (デジタルトランスフォーメーション)を お手伝いいたします。
+            Japan System {t("title.message")}
           </Typography>
          
         </div>
