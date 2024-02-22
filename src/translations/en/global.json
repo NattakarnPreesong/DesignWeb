@@ -178,5 +178,9 @@
 
     "ContactUs2": {
         "message": "Please fill out the form below and contact us. If you are in a hurry, please contact us at the phone number below."
+    },
+
+    "ContactForm": {
+        "message": "Contact Form"
     }
 }
