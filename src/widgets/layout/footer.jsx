@@ -26,7 +26,7 @@ export function Footer({ title, description, socials, menus, copyright }) {
 Footer.defaultProps = {
   copyright: (
     <>
-      Copyright © {year} KenrackSystem by{" "}
+      Copyright © {year} Japan System by{" "}
       <a
         href=""
         target="_blank"
