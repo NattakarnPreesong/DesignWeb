@@ -1,14 +1,14 @@
-<!-- How to install in project -->
+# How to install in project
 
-<!-- Install -->
-npm i
+### Install
+> npm i
 
-<!-- run the project -->
-npm run dev 
+### run the project
+> npm run dev 
 
-click link to page
-http://localhost:5173/
+> click link to page
+> http://localhost:5173/
 
 
-<!-- Deploy link test -->
-https://design-web-delta.vercel.app/Home
+### Deploy link test
+> https://design-web-delta.vercel.app/Home
